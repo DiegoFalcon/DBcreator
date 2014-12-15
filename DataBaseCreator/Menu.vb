@@ -37,8 +37,18 @@ Public Class Menu
             Label_DB.Text = "Using DB: " + DBname
             MessageBox.Show("Created DataBase " + DBname)
         Catch
-            MessageBox.Show("Error at creating DataBase: " + DBname)
+            Try
+                srv = New Server("(local)")
+                Db = New Database(srv, DBname)
+                Db.Create()
+                Label_DB.Text = "Using DB: " + DBname
+                MessageBox.Show("Created DataBase " + DBname)
+            Catch
+                MessageBox.Show("Error at creating DataBase: " + DBname)
+            End Try
+
         End Try
+
 
     End Sub
 
