@@ -1,0 +1,13 @@
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\bin\Debug\DataBaseCreator.exe.config
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\bin\Debug\DataBaseCreator.exe
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\bin\Debug\DataBaseCreator.pdb
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\bin\Debug\DataBaseCreator.xml
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.Resources.resources
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.vbproj.GenerateResource.Cache
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.exe
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.xml
+c:\users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.pdb
+C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.vbprojResolveAssemblyReference.cache
+C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.Menu.resources
+C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.SelectDB.resources
+C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.SplashScreen1.resources
