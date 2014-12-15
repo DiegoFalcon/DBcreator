@@ -11,3 +11,7 @@ C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseC
 C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.Menu.resources
 C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.SelectDB.resources
 C:\Users\esteban\documents\visual studio 2012\Projects\DataBaseCreator\DataBaseCreator\obj\Debug\DataBaseCreator.SplashScreen1.resources
+C:\Users\bbric_000\Documents\GitHub\DBcreator\DataBaseCreator\bin\Debug\DataBaseCreator.exe.config
+C:\Users\bbric_000\Documents\GitHub\DBcreator\DataBaseCreator\obj\Debug\DataBaseCreator.exe
+C:\Users\bbric_000\Documents\GitHub\DBcreator\DataBaseCreator\obj\Debug\DataBaseCreator.xml
+C:\Users\bbric_000\Documents\GitHub\DBcreator\DataBaseCreator\obj\Debug\DataBaseCreator.pdb

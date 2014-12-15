@@ -28,7 +28,7 @@ Public Class Menu
     End Sub
 
     Private Sub DatabaseToolStripMenuItem2_Click(sender As Object, e As EventArgs) Handles DatabaseToolStripMenuItem2.Click
-
+        MessageBox.Show("HOLa")
         Dim DBname = InputBox("New DataBase Name: ")
         Try
             srv = New Server("ESTEBAN\SQLEXPRESS")
